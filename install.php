@@ -1,0 +1,1 @@
+<a href='login.php' style='background:#059669;color:#fff;padding:10px 20px;border-radius:6px;text-decoration:none;'>Go to Login</a>
